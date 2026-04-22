@@ -1,0 +1,301 @@
+Order ID,Order Date,Ship Date,Customer Name,Segment,Region,State,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2020-300009,16-01-2020,23-01-2020,Lakshmi Venkat,Corporate,East,Maryland,Technology,Accessories,Apple AirPods Pro 2,249.99,1,0.0,77.5
+CA-2020-300038,21-01-2020,28-01-2020,Rahul Sharma,Consumer,West,California,Technology,Laptops,HP Spectre x360,5134.96,4,0.05,1026.99
+CA-2020-300060,21-01-2020,23-01-2020,Ananya Reddy,Consumer,East,Pennsylvania,Furniture,Bookcases,South Shore Axess Bookcase,292.48,2,0.1,38.02
+CA-2020-300017,27-01-2020,29-01-2020,Ananya Reddy,Consumer,East,Pennsylvania,Technology,Phones,Motorola Edge 30,1282.47,3,0.2,12.82
+CA-2020-300059,29-01-2020,02-02-2020,Rohan Mehta,Home Office,South,Florida,Technology,Laptops,Lenovo ThinkPad X1 Carbon,4499.97,3,0.0,944.99
+CA-2020-300043,30-01-2020,02-02-2020,Ananya Reddy,Consumer,East,Pennsylvania,Office Supplies,Binders,Wilson Jones D-Ring Binder,74.03,3,0.05,17.03
+CA-2020-300058,31-01-2020,02-02-2020,Ananya Reddy,Consumer,East,Pennsylvania,Furniture,Bookcases,Sauder Palladia Library Bookcase,1319.96,4,0.0,-105.6
+CA-2020-300088,31-01-2020,06-02-2020,Ananya Reddy,Consumer,East,Pennsylvania,Office Supplies,Storage,Rubbermaid Drawer Organizer,38.99,1,0.1,8.97
+CA-2020-300052,01-02-2020,05-02-2020,Karthik Rao,Consumer,West,Arizona,Technology,Phones,Samsung Galaxy S22,1777.48,2,0.05,284.4
+CA-2020-300080,01-02-2020,05-02-2020,Rahul Sharma,Consumer,West,California,Office Supplies,Binders,Cardinal Premier Binder 3-inch,159.96,4,0.0,44.79
+CA-2020-300014,05-02-2020,09-02-2020,Rakesh Yadav,Consumer,West,Utah,Technology,Laptops,ASUS ZenBook 14,828.74,1,0.1,66.3
+CA-2020-300085,11-02-2020,14-02-2020,Rohan Mehta,Home Office,South,Florida,Furniture,Chairs,ErgoChair Pro Ergonomic,599.99,1,0.0,132.0
+CA-2020-300075,14-02-2020,16-02-2020,Rakesh Yadav,Consumer,West,Utah,Technology,Phones,Motorola Edge 30,1799.96,4,0.0,449.99
+CA-2020-300010,20-02-2020,22-02-2020,Pooja Agarwal,Corporate,East,New Jersey,Technology,Laptops,MacBook Air M2,1267.49,1,0.1,215.47
+CA-2020-300016,27-02-2020,02-03-2020,Suresh Babu,Corporate,South,Georgia,Furniture,Tables,Sauder Trestle Executive Desk,1799.97,3,0.0,-216.0
+CA-2020-300031,01-03-2020,03-03-2020,Neha Saxena,Corporate,Central,Wisconsin,Office Supplies,Storage,Rubbermaid Drawer Organizer,115.47,3,0.15,19.63
+CA-2020-300019,02-03-2020,06-03-2020,Karthik Rao,Consumer,West,Arizona,Office Supplies,Storage,Rubbermaid Drawer Organizer,39.49,1,0.05,11.45
+CA-2020-300045,03-03-2020,05-03-2020,Amit Verma,Home Office,South,Texas,Technology,Laptops,HP Spectre x360,2599.98,2,0.0,675.99
+CA-2020-300100,05-03-2020,07-03-2020,Arjun Kumar,Corporate,West,Oregon,Furniture,Chairs,Flash Furniture HERCULES Chair,712.47,3,0.2,-28.5
+CA-2020-300061,08-03-2020,12-03-2020,Aditya Mishra,Corporate,West,Nevada,Office Supplies,Storage,Sterilite 6-Drawer Tower,52.93,1,0.15,7.94
+CA-2020-300092,11-03-2020,17-03-2020,Arjun Kumar,Corporate,West,Oregon,Technology,Accessories,Apple AirPods Pro 2,721.85,3,0.15,93.84
+CA-2020-300074,20-03-2020,24-03-2020,Rahul Sharma,Consumer,West,California,Technology,Phones,Samsung Galaxy S22,1799.98,2,0.0,396.0
+CA-2020-300057,21-03-2020,25-03-2020,Ananya Reddy,Consumer,East,Pennsylvania,Furniture,Tables,IKEA BEKANT Corner Desk,389.99,1,0.1,23.4
+CA-2020-300011,26-03-2020,28-03-2020,Karthik Rao,Consumer,West,Arizona,Office Supplies,Labels,Avery Easy Peel Address Labels,91.96,4,0.0,34.94
+CA-2020-300021,26-03-2020,02-04-2020,Sanjay Bhatt,Home Office,West,Colorado,Office Supplies,Paper,Hammermill Great White 30%,134.97,3,0.0,36.44
+CA-2020-300001,05-04-2020,07-04-2020,Karthik Rao,Consumer,West,Arizona,Office Supplies,Envelopes,Quality Park Policy Envelopes,29.98,2,0.0,10.19
+CA-2020-300066,11-04-2020,17-04-2020,Lakshmi Venkat,Corporate,East,Maryland,Office Supplies,Storage,Rubbermaid Drawer Organizer,38.99,1,0.1,8.97
+CA-2020-300065,17-04-2020,20-04-2020,Ananya Reddy,Consumer,East,Pennsylvania,Office Supplies,Binders,Cardinal Premier Binder 3-inch,39.99,1,0.0,11.2
+CA-2020-300078,20-04-2020,22-04-2020,Kavya Nair,Consumer,Central,Ohio,Technology,Phones,Motorola Edge 30,899.98,2,0.0,225.0
+CA-2020-300005,02-05-2020,06-05-2020,Gaurav Pandey,Consumer,South,Tennessee,Furniture,Tables,IKEA BEKANT Corner Desk,1599.96,4,0.0,287.99
+CA-2020-300051,02-05-2020,08-05-2020,Rakesh Yadav,Consumer,West,Utah,Furniture,Chairs,HON Ignition 2.0 Chair,1273.85,3,0.05,165.6
+CA-2020-300070,05-05-2020,12-05-2020,Neha Saxena,Corporate,Central,Wisconsin,Office Supplies,Envelopes,Mead Standard White Envelopes,33.98,2,0.0,10.87
+CA-2020-300026,07-05-2020,11-05-2020,Ritu Kapoor,Consumer,Central,Indiana,Furniture,Chairs,HON Ignition 2.0 Chair,1719.96,4,0.0,326.79
+CA-2020-300083,20-05-2020,22-05-2020,Manish Tiwari,Corporate,South,Virginia,Office Supplies,Binders,Wilson Jones D-Ring Binder,96.21,4,0.15,10.58
+CA-2020-300020,21-05-2020,24-05-2020,Neha Saxena,Corporate,Central,Wisconsin,Office Supplies,Storage,Sterilite 6-Drawer Tower,105.86,2,0.15,15.88
+CA-2020-300018,26-05-2020,31-05-2020,Suresh Babu,Corporate,South,Georgia,Technology,Accessories,Sony WH-1000XM5,1364.96,4,0.1,245.69
+CA-2020-300046,26-05-2020,02-06-2020,Rakesh Yadav,Consumer,West,Utah,Furniture,Tables,Realspace Magellan Corner Desk,877.48,2,0.1,35.1
+CA-2020-300094,26-05-2020,02-06-2020,Tanvi Desai,Consumer,East,Connecticut,Furniture,Chairs,ErgoChair Pro Ergonomic,599.99,1,0.0,132.0
+CA-2020-300034,29-05-2020,01-06-2020,Karthik Rao,Consumer,West,Arizona,Technology,Accessories,Apple AirPods Pro 2,987.46,4,0.05,246.87
+CA-2020-300062,06-06-2020,09-06-2020,Pooja Agarwal,Corporate,East,New Jersey,Technology,Laptops,Lenovo ThinkPad X1 Carbon,1443.74,1,0.15,43.31
+CA-2020-300035,07-06-2020,11-06-2020,Nikhil Sharma,Consumer,South,North Carolina,Office Supplies,Envelopes,Quality Park Policy Envelopes,29.23,2,0.1,6.43
+CA-2020-300082,07-06-2020,09-06-2020,Gaurav Pandey,Consumer,South,Tennessee,Furniture,Tables,Lifetime Commercial Folding Table,419.97,3,0.0,92.39
+CA-2020-300032,12-06-2020,18-06-2020,Divya Iyer,Consumer,East,Massachusetts,Technology,Phones,Motorola Edge 30,449.99,1,0.0,112.5
+CA-2020-300095,14-06-2020,19-06-2020,Karthik Rao,Consumer,West,Arizona,Furniture,Bookcases,South Shore Axess Bookcase,149.99,1,0.0,37.5
+CA-2020-300025,22-06-2020,28-06-2020,Divya Iyer,Consumer,East,Massachusetts,Office Supplies,Storage,Rubbermaid Drawer Organizer,119.97,3,0.0,41.99
+CA-2020-300049,22-06-2020,24-06-2020,Sanjay Bhatt,Home Office,West,Colorado,Furniture,Tables,IKEA BEKANT Corner Desk,799.98,2,0.0,144.0
+CA-2020-300028,28-06-2020,02-07-2020,Sanjay Bhatt,Home Office,West,Colorado,Office Supplies,Binders,Cardinal Premier Binder 3-inch,77.98,2,0.1,12.48
+CA-2020-300090,29-06-2020,03-07-2020,Ritu Kapoor,Consumer,Central,Indiana,Technology,Phones,Motorola Edge 30,1777.46,4,0.05,337.72
+CA-2020-300006,30-06-2020,06-07-2020,Tanvi Desai,Consumer,East,Connecticut,Technology,Phones,Apple iPhone 14 Pro,2534.98,2,0.1,380.25
+CA-2020-300079,15-07-2020,21-07-2020,Arjun Kumar,Corporate,West,Oregon,Office Supplies,Paper,Hammermill Great White 30%,89.98,2,0.0,24.29
+CA-2020-300053,26-07-2020,28-07-2020,Tanvi Desai,Consumer,East,Connecticut,Office Supplies,Paper,HP Premium32 Copy Paper 500ct,52.33,1,0.05,9.94
+CA-2020-300064,29-07-2020,01-08-2020,Ritu Kapoor,Consumer,Central,Indiana,Technology,Accessories,Samsung T7 Shield SSD,259.98,2,0.0,85.79
+CA-2020-300022,31-07-2020,02-08-2020,Lakshmi Venkat,Corporate,East,Maryland,Office Supplies,Binders,Avery Heavy Duty View Binder,87.72,3,0.1,15.79
+CA-2020-300071,31-07-2020,02-08-2020,Divya Iyer,Consumer,East,Massachusetts,Furniture,Tables,IKEA BEKANT Corner Desk,789.98,2,0.05,94.8
+CA-2020-300029,07-08-2020,09-08-2020,Lakshmi Venkat,Corporate,East,Maryland,Office Supplies,Storage,Sterilite 6-Drawer Tower,54.99,1,0.0,18.15
+CA-2020-300081,08-08-2020,14-08-2020,Shreya Pillai,Home Office,Central,Missouri,Furniture,Chairs,HON Ignition 2.0 Chair,1257.72,3,0.1,88.04
+CA-2020-300041,10-08-2020,13-08-2020,Priya Patel,Corporate,East,New York,Technology,Phones,OnePlus 10 Pro,1579.98,2,0.05,284.4
+CA-2020-300076,13-08-2020,19-08-2020,Gaurav Pandey,Consumer,South,Tennessee,Office Supplies,Envelopes,Mead Standard White Envelopes,65.41,4,0.15,9.16
+CA-2020-300037,15-08-2020,21-08-2020,Manish Tiwari,Corporate,South,Virginia,Furniture,Chairs,Flash Furniture HERCULES Chair,249.99,1,0.0,50.0
+CA-2020-300099,15-08-2020,22-08-2020,Rohan Mehta,Home Office,South,Florida,Office Supplies,Paper,Hammermill Great White 30%,131.6,3,0.1,19.74
+CA-2020-300055,23-08-2020,30-08-2020,Priya Patel,Corporate,East,New York,Office Supplies,Envelopes,Quality Park Policy Envelopes,29.61,2,0.05,8.29
+CA-2020-300073,25-08-2020,27-08-2020,Meera Joshi,Home Office,Central,Michigan,Office Supplies,Paper,Staples Multipurpose 8.5x11,74.08,2,0.1,11.85
+CA-2020-300012,27-08-2020,30-08-2020,Sanjay Bhatt,Home Office,West,Colorado,Technology,Accessories,Sony WH-1000XM5,1010.6,3,0.15,121.27
+CA-2020-300056,29-08-2020,01-09-2020,Rahul Sharma,Consumer,West,California,Office Supplies,Paper,HP Premium32 Copy Paper 500ct,206.66,4,0.1,26.87
+CA-2020-300023,30-08-2020,06-09-2020,Nikhil Sharma,Consumer,South,North Carolina,Office Supplies,Storage,Rubbermaid Drawer Organizer,39.49,1,0.05,11.45
+CA-2020-300007,02-09-2020,06-09-2020,Amit Verma,Home Office,South,Texas,Furniture,Chairs,Autonomous ErgoChair Plus,949.98,2,0.2,-28.5
+CA-2020-300040,02-09-2020,07-09-2020,Pooja Agarwal,Corporate,East,New Jersey,Office Supplies,Binders,Cardinal Premier Binder 3-inch,79.98,2,0.0,22.39
+CA-2020-300093,03-09-2020,06-09-2020,Vikram Singh,Corporate,West,Washington,Furniture,Tables,Realspace Magellan Corner Desk,1349.97,3,0.0,216.0
+CA-2020-300008,06-09-2020,12-09-2020,Vikram Singh,Corporate,West,Washington,Technology,Accessories,Sony WH-1000XM5,1399.96,4,0.0,419.99
+CA-2020-300069,10-09-2020,13-09-2020,Ananya Reddy,Consumer,East,Pennsylvania,Office Supplies,Binders,Wilson Jones D-Ring Binder,24.68,1,0.05,5.68
+CA-2020-300098,11-09-2020,13-09-2020,Ananya Reddy,Consumer,East,Pennsylvania,Furniture,Bookcases,Bush Cabot 5-Shelf Bookcase,249.99,1,0.0,47.5
+CA-2020-300039,19-09-2020,23-09-2020,Rahul Sharma,Consumer,West,California,Furniture,Bookcases,Sauder Palladia Library Bookcase,940.47,3,0.2,-300.95
+CA-2020-300084,28-09-2020,03-10-2020,Gaurav Pandey,Consumer,South,Tennessee,Technology,Phones,Samsung Galaxy S22,899.99,1,0.0,198.0
+CA-2020-300089,02-10-2020,09-10-2020,Divya Iyer,Consumer,East,Massachusetts,Office Supplies,Binders,Cardinal Premier Binder 3-inch,119.97,3,0.0,33.59
+CA-2020-300063,04-10-2020,09-10-2020,Neha Saxena,Corporate,Central,Wisconsin,Furniture,Bookcases,Sauder Palladia Library Bookcase,635.23,2,0.15,-165.16
+CA-2020-300087,04-10-2020,08-10-2020,Ananya Reddy,Consumer,East,Pennsylvania,Technology,Laptops,Lenovo ThinkPad X1 Carbon,2962.48,2,0.05,444.37
+CA-2020-300048,05-10-2020,10-10-2020,Pooja Agarwal,Corporate,East,New Jersey,Technology,Accessories,Samsung T7 Shield SSD,256.73,2,0.05,69.32
+CA-2020-300013,23-10-2020,29-10-2020,Meera Joshi,Home Office,Central,Michigan,Furniture,Chairs,Flash Furniture HERCULES Chair,499.98,2,0.0,100.0
+CA-2020-300097,23-10-2020,27-10-2020,Divya Iyer,Consumer,East,Massachusetts,Technology,Accessories,Samsung T7 Shield SSD,259.98,2,0.0,85.79
+CA-2020-300044,27-10-2020,02-11-2020,Rakesh Yadav,Consumer,West,Utah,Furniture,Bookcases,Bush Cabot 5-Shelf Bookcase,749.97,3,0.0,142.49
+CA-2020-300067,01-11-2020,03-11-2020,Suresh Babu,Corporate,South,Georgia,Furniture,Tables,Sauder Trestle Executive Desk,599.99,1,0.0,-72.0
+CA-2020-300096,03-11-2020,06-11-2020,Sneha Gupta,Consumer,Central,Illinois,Technology,Laptops,MacBook Air M2,2599.98,2,0.0,753.99
+CA-2020-300042,04-11-2020,09-11-2020,Nikhil Sharma,Consumer,South,North Carolina,Technology,Phones,OnePlus 10 Pro,1559.98,2,0.1,187.2
+CA-2020-300077,09-11-2020,15-11-2020,Sanjay Bhatt,Home Office,West,Colorado,Office Supplies,Binders,Cardinal Premier Binder 3-inch,118.47,3,0.05,26.06
+CA-2020-300091,09-11-2020,15-11-2020,Ritu Kapoor,Consumer,Central,Indiana,Furniture,Chairs,Flash Furniture HERCULES Chair,749.97,3,0.0,149.99
+CA-2020-300004,11-11-2020,13-11-2020,Rohan Mehta,Home Office,South,Florida,Technology,Laptops,ASUS ZenBook 14,1636.23,2,0.15,32.72
+CA-2020-300072,13-11-2020,15-11-2020,Meera Joshi,Home Office,Central,Michigan,Technology,Accessories,Anker USB-C Hub 10-in-1,59.99,1,0.0,21.0
+CA-2020-300054,22-11-2020,26-11-2020,Priya Patel,Corporate,East,New York,Office Supplies,Labels,Post-it Super Sticky Notes 12pk,80.97,3,0.0,29.15
+CA-2020-300003,28-11-2020,05-12-2020,Pooja Agarwal,Corporate,East,New Jersey,Furniture,Bookcases,South Shore Axess Bookcase,449.97,3,0.0,112.49
+CA-2020-300033,28-11-2020,03-12-2020,Sanjay Bhatt,Home Office,West,Colorado,Furniture,Bookcases,South Shore Axess Bookcase,296.23,2,0.05,56.28
+CA-2020-300086,29-11-2020,03-12-2020,Rohan Mehta,Home Office,South,Florida,Technology,Laptops,Dell XPS 15,6399.96,4,0.0,1535.99
+CA-2020-300036,30-11-2020,05-12-2020,Nikhil Sharma,Consumer,South,North Carolina,Furniture,Bookcases,Sauder Palladia Library Bookcase,643.48,2,0.1,-128.7
+CA-2020-300050,06-12-2020,09-12-2020,Kavya Nair,Consumer,Central,Ohio,Furniture,Bookcases,Sauder Palladia Library Bookcase,317.62,1,0.15,-82.58
+CA-2020-300024,09-12-2020,14-12-2020,Suresh Babu,Corporate,South,Georgia,Furniture,Chairs,Flash Furniture HERCULES Chair,474.98,2,0.2,-19.0
+CA-2020-300030,09-12-2020,16-12-2020,Aditya Mishra,Corporate,West,Nevada,Office Supplies,Paper,Hammermill Great White 30%,179.96,4,0.0,48.59
+CA-2020-300002,16-12-2020,19-12-2020,Arjun Kumar,Corporate,West,Oregon,Office Supplies,Envelopes,Quality Park Policy Envelopes,14.24,1,0.2,1.42
+CA-2020-300027,22-12-2020,25-12-2020,Rahul Sharma,Consumer,West,California,Office Supplies,Labels,Post-it Super Sticky Notes 12pk,53.31,2,0.05,15.99
+CA-2020-300068,22-12-2020,26-12-2020,Pooja Agarwal,Corporate,East,New Jersey,Technology,Phones,OnePlus 10 Pro,1579.98,2,0.05,284.4
+CA-2020-300047,26-12-2020,02-01-2021,Kavya Nair,Consumer,Central,Ohio,Technology,Accessories,Logitech MX Master 3S,98.74,1,0.05,25.67
+CA-2020-300015,29-12-2020,04-01-2021,Ananya Reddy,Consumer,East,Pennsylvania,Technology,Accessories,Apple AirPods Pro 2,487.48,2,0.1,92.62
+CA-2021-300150,01-01-2021,05-01-2021,Sanjay Bhatt,Home Office,West,Colorado,Office Supplies,Paper,Hammermill Great White 30%,207.85,4,0.15,18.71
+CA-2021-300167,03-01-2021,05-01-2021,Rahul Sharma,Consumer,West,California,Technology,Phones,Motorola Edge 30,1079.98,2,0.0,270.0
+CA-2021-300198,08-01-2021,14-01-2021,Shreya Pillai,Home Office,Central,Missouri,Technology,Laptops,ASUS ZenBook 14,1019.99,1,0.0,204.0
+CA-2021-300159,10-01-2021,17-01-2021,Divya Iyer,Consumer,East,Massachusetts,Office Supplies,Labels,Post-it Super Sticky Notes 12pk,62.35,2,0.15,11.22
+CA-2021-300104,18-01-2021,22-01-2021,Meera Joshi,Home Office,Central,Michigan,Technology,Laptops,ASUS ZenBook 14,4079.95,4,0.0,815.99
+CA-2021-300103,20-01-2021,26-01-2021,Neha Saxena,Corporate,Central,Wisconsin,Furniture,Tables,IKEA BEKANT Corner Desk,1367.97,3,0.2,-82.08
+CA-2021-300144,23-01-2021,25-01-2021,Rohan Mehta,Home Office,South,Florida,Technology,Laptops,Lenovo ThinkPad X1 Carbon,5399.96,3,0.0,1133.99
+CA-2021-300106,30-01-2021,03-02-2021,Rakesh Yadav,Consumer,West,Utah,Technology,Laptops,Dell XPS 15,5471.97,3,0.2,0.0
+CA-2021-300197,03-02-2021,07-02-2021,Manish Tiwari,Corporate,South,Virginia,Furniture,Chairs,ErgoChair Pro Ergonomic,710.99,1,0.05,113.76
+CA-2021-300200,08-02-2021,11-02-2021,Ritu Kapoor,Consumer,Central,Indiana,Office Supplies,Paper,Staples Multipurpose 8.5x11,182.35,4,0.0,51.06
+CA-2021-300109,09-02-2021,16-02-2021,Arjun Kumar,Corporate,West,Oregon,Technology,Laptops,Dell XPS 15,5759.96,3,0.0,1382.39
+CA-2021-300112,14-02-2021,20-02-2021,Vikram Singh,Corporate,West,Washington,Office Supplies,Paper,HP Premium32 Copy Paper 500ct,190.76,3,0.0,47.69
+CA-2021-300135,16-02-2021,21-02-2021,Amit Verma,Home Office,South,Texas,Technology,Accessories,Apple AirPods Pro 2,299.99,1,0.0,93.0
+CA-2021-300141,16-02-2021,18-02-2021,Shreya Pillai,Home Office,Central,Missouri,Technology,Phones,Google Pixel 7,1616.98,2,0.15,80.85
+CA-2021-300154,16-02-2021,18-02-2021,Lakshmi Venkat,Corporate,East,Maryland,Office Supplies,Paper,Hammermill Great White 30%,51.29,1,0.2,1.54
+CA-2021-300143,19-02-2021,26-02-2021,Tanvi Desai,Consumer,East,Connecticut,Furniture,Chairs,ErgoChair Pro Ergonomic,683.99,1,0.2,-13.68
+CA-2021-300177,25-02-2021,04-03-2021,Arjun Kumar,Corporate,West,Oregon,Furniture,Bookcases,Sauder Palladia Library Bookcase,1564.15,4,0.05,-218.98
+CA-2021-300188,25-02-2021,03-03-2021,Ritu Kapoor,Consumer,Central,Indiana,Furniture,Tables,Lifetime Commercial Folding Table,165.89,1,0.05,26.54
+CA-2021-300115,26-02-2021,28-02-2021,Divya Iyer,Consumer,East,Massachusetts,Office Supplies,Binders,Avery Heavy Duty View Binder,34.19,1,0.2,2.05
+CA-2021-300118,02-03-2021,08-03-2021,Rakesh Yadav,Consumer,West,Utah,Furniture,Chairs,Autonomous ErgoChair Plus,577.49,1,0.15,17.32
+CA-2021-300107,03-03-2021,08-03-2021,Pooja Agarwal,Corporate,East,New Jersey,Technology,Accessories,Samsung T7 Shield SSD,155.99,1,0.0,51.48
+CA-2021-300174,06-03-2021,13-03-2021,Ananya Reddy,Consumer,East,Pennsylvania,Furniture,Chairs,Flash Furniture HERCULES Chair,599.98,2,0.0,120.0
+CA-2021-300157,09-03-2021,14-03-2021,Sanjay Bhatt,Home Office,West,Colorado,Technology,Phones,Apple iPhone 14 Pro,4621.46,3,0.05,970.51
+CA-2021-300105,11-03-2021,18-03-2021,Lakshmi Venkat,Corporate,East,Maryland,Furniture,Bookcases,Bush Cabot 5-Shelf Bookcase,888.71,3,0.05,115.53
+CA-2021-300181,12-03-2021,18-03-2021,Divya Iyer,Consumer,East,Massachusetts,Technology,Phones,Samsung Galaxy S22,4265.95,4,0.05,682.55
+CA-2021-300195,19-03-2021,21-03-2021,Karthik Rao,Consumer,West,Arizona,Furniture,Chairs,Autonomous ErgoChair Plus,592.49,1,0.05,88.87
+CA-2021-300145,20-03-2021,23-03-2021,Priya Patel,Corporate,East,New York,Technology,Accessories,Samsung T7 Shield SSD,311.98,2,0.0,102.95
+CA-2021-300133,21-03-2021,24-03-2021,Suresh Babu,Corporate,South,Georgia,Technology,Accessories,Sony WH-1000XM5,419.99,1,0.0,126.0
+CA-2021-300126,22-03-2021,29-03-2021,Rakesh Yadav,Consumer,West,Utah,Technology,Phones,Samsung Galaxy S22,2132.98,2,0.05,341.28
+CA-2021-300189,27-03-2021,29-03-2021,Manish Tiwari,Corporate,South,Virginia,Technology,Accessories,Apple AirPods Pro 2,854.97,3,0.2,59.85
+CA-2021-300184,20-04-2021,26-04-2021,Lakshmi Venkat,Corporate,East,Maryland,Office Supplies,Binders,Avery Heavy Duty View Binder,107.96,3,0.0,32.39
+CA-2021-300129,27-04-2021,02-05-2021,Vikram Singh,Corporate,West,Washington,Furniture,Bookcases,Bush Cabot 5-Shelf Bookcase,1154.95,4,0.15,11.55
+CA-2021-300170,03-05-2021,07-05-2021,Ananya Reddy,Consumer,East,Pennsylvania,Furniture,Chairs,Flash Furniture HERCULES Chair,1199.95,4,0.0,239.99
+CA-2021-300192,04-05-2021,11-05-2021,Nikhil Sharma,Consumer,South,North Carolina,Furniture,Bookcases,South Shore Axess Bookcase,355.48,2,0.05,67.54
+CA-2021-300110,08-05-2021,14-05-2021,Sneha Gupta,Consumer,Central,Illinois,Technology,Phones,Apple iPhone 14 Pro,6161.95,4,0.05,1294.01
+CA-2021-300160,08-05-2021,10-05-2021,Meera Joshi,Home Office,Central,Michigan,Furniture,Bookcases,South Shore Axess Bookcase,355.48,2,0.05,67.54
+CA-2021-300127,11-05-2021,16-05-2021,Rahul Sharma,Consumer,West,California,Technology,Accessories,Logitech MX Master 3S,227.98,2,0.2,18.24
+CA-2021-300120,21-05-2021,23-05-2021,Nikhil Sharma,Consumer,South,North Carolina,Office Supplies,Paper,HP Premium32 Copy Paper 500ct,63.59,1,0.0,15.9
+CA-2021-300147,21-05-2021,26-05-2021,Meera Joshi,Home Office,Central,Michigan,Office Supplies,Labels,Post-it Super Sticky Notes 12pk,63.97,2,0.05,19.19
+CA-2021-300137,24-05-2021,27-05-2021,Sanjay Bhatt,Home Office,West,Colorado,Furniture,Bookcases,Bush Cabot 5-Shelf Bookcase,1169.95,4,0.1,81.9
+CA-2021-300169,02-06-2021,07-06-2021,Meera Joshi,Home Office,Central,Michigan,Office Supplies,Envelopes,Mead Standard White Envelopes,81.55,4,0.0,26.1
+CA-2021-300182,05-06-2021,12-06-2021,Priya Patel,Corporate,East,New York,Technology,Phones,Motorola Edge 30,1619.96,3,0.0,404.99
+CA-2021-300128,06-06-2021,08-06-2021,Meera Joshi,Home Office,Central,Michigan,Office Supplies,Storage,Sterilite 6-Drawer Tower,197.96,3,0.0,65.33
+CA-2021-300155,11-06-2021,14-06-2021,Amit Verma,Home Office,South,Texas,Technology,Accessories,Samsung T7 Shield SSD,467.96,3,0.0,154.43
+CA-2021-300152,12-06-2021,18-06-2021,Gaurav Pandey,Consumer,South,Tennessee,Office Supplies,Envelopes,Mead Standard White Envelopes,40.78,2,0.0,13.05
+CA-2021-300113,13-06-2021,15-06-2021,Tanvi Desai,Consumer,East,Connecticut,Technology,Laptops,Lenovo ThinkPad X1 Carbon,5332.46,3,0.05,799.87
+CA-2021-300153,20-06-2021,23-06-2021,Suresh Babu,Corporate,South,Georgia,Office Supplies,Binders,Wilson Jones D-Ring Binder,88.84,3,0.05,20.43
+CA-2021-300108,21-06-2021,26-06-2021,Karthik Rao,Consumer,West,Arizona,Furniture,Chairs,ErgoChair Pro Ergonomic,2735.95,4,0.2,-54.72
+CA-2021-300114,03-07-2021,08-07-2021,Meera Joshi,Home Office,Central,Michigan,Technology,Phones,Samsung Galaxy S22,2078.98,2,0.15,83.16
+CA-2021-300124,03-07-2021,08-07-2021,Arjun Kumar,Corporate,West,Oregon,Technology,Accessories,Apple AirPods Pro 2,854.97,3,0.2,59.85
+CA-2021-300162,12-07-2021,15-07-2021,Ananya Reddy,Consumer,East,Pennsylvania,Technology,Phones,Apple iPhone 14 Pro,4679.96,3,0.0,1263.59
+CA-2021-300146,16-07-2021,20-07-2021,Rohan Mehta,Home Office,South,Florida,Furniture,Tables,IKEA BEKANT Corner Desk,959.98,2,0.0,172.8
+CA-2021-300125,18-07-2021,21-07-2021,Gaurav Pandey,Consumer,South,Tennessee,Office Supplies,Storage,Rubbermaid Drawer Organizer,142.16,3,0.05,41.23
+CA-2021-300117,21-07-2021,27-07-2021,Amit Verma,Home Office,South,Texas,Technology,Phones,Apple iPhone 14 Pro,1559.99,1,0.0,421.2
+CA-2021-300185,21-07-2021,25-07-2021,Manish Tiwari,Corporate,South,Virginia,Technology,Laptops,Dell XPS 15,3695.98,2,0.15,221.76
+CA-2021-300180,14-08-2021,21-08-2021,Ananya Reddy,Consumer,East,Pennsylvania,Office Supplies,Binders,Avery Heavy Duty View Binder,68.38,2,0.2,4.1
+CA-2021-300136,31-08-2021,03-09-2021,Rohan Mehta,Home Office,South,Florida,Office Supplies,Binders,Cardinal Premier Binder 3-inch,138.57,3,0.15,13.86
+CA-2021-300190,14-09-2021,18-09-2021,Aditya Mishra,Corporate,West,Nevada,Technology,Laptops,Dell XPS 15,1847.99,1,0.15,110.88
+CA-2021-300102,18-09-2021,21-09-2021,Aditya Mishra,Corporate,West,Nevada,Furniture,Chairs,ErgoChair Pro Ergonomic,1385.98,2,0.15,55.44
+CA-2021-300171,22-09-2021,25-09-2021,Ananya Reddy,Consumer,East,Pennsylvania,Office Supplies,Paper,Hammermill Great White 30%,53.31,1,0.05,11.2
+CA-2021-300130,23-09-2021,29-09-2021,Sanjay Bhatt,Home Office,West,Colorado,Office Supplies,Paper,Staples Multipurpose 8.5x11,136.76,3,0.0,38.29
+CA-2021-300140,25-09-2021,27-09-2021,Ritu Kapoor,Consumer,Central,Indiana,Office Supplies,Paper,Hammermill Great White 30%,205.15,4,0.2,6.15
+CA-2021-300199,29-09-2021,05-10-2021,Divya Iyer,Consumer,East,Massachusetts,Furniture,Chairs,Flash Furniture HERCULES Chair,899.96,3,0.0,179.99
+CA-2021-300122,02-10-2021,06-10-2021,Divya Iyer,Consumer,East,Massachusetts,Furniture,Bookcases,Sauder Palladia Library Bookcase,782.08,2,0.05,-109.49
+CA-2021-300138,05-10-2021,10-10-2021,Ritu Kapoor,Consumer,Central,Indiana,Technology,Laptops,ASUS ZenBook 14,2945.22,3,0.15,58.9
+CA-2021-300142,05-10-2021,07-10-2021,Karthik Rao,Consumer,West,Arizona,Furniture,Chairs,ErgoChair Pro Ergonomic,710.99,1,0.05,113.76
+CA-2021-300158,05-10-2021,07-10-2021,Neha Saxena,Corporate,Central,Wisconsin,Technology,Accessories,Apple AirPods Pro 2,299.99,1,0.0,93.0
+CA-2021-300196,05-10-2021,08-10-2021,Amit Verma,Home Office,South,Texas,Office Supplies,Envelopes,Quality Park Policy Envelopes,71.95,4,0.0,24.46
+CA-2021-300176,15-10-2021,21-10-2021,Rakesh Yadav,Consumer,West,Utah,Furniture,Tables,Lifetime Commercial Folding Table,671.95,4,0.0,147.83
+CA-2021-300139,16-10-2021,22-10-2021,Nikhil Sharma,Consumer,South,North Carolina,Furniture,Chairs,Autonomous ErgoChair Plus,2399.95,4,0.0,503.99
+CA-2021-300149,16-10-2021,20-10-2021,Rakesh Yadav,Consumer,West,Utah,Office Supplies,Envelopes,Mead Standard White Envelopes,40.27,2,0.05,10.47
+CA-2021-300168,30-10-2021,03-11-2021,Amit Verma,Home Office,South,Texas,Technology,Phones,Motorola Edge 30,539.99,1,0.0,135.0
+CA-2021-300123,31-10-2021,07-11-2021,Manish Tiwari,Corporate,South,Virginia,Office Supplies,Envelopes,Mead Standard White Envelopes,38.74,2,0.2,3.1
+CA-2021-300161,03-11-2021,09-11-2021,Kavya Nair,Consumer,Central,Ohio,Office Supplies,Binders,Cardinal Premier Binder 3-inch,46.79,1,0.1,7.49
+CA-2021-300173,04-11-2021,06-11-2021,Nikhil Sharma,Consumer,South,North Carolina,Technology,Laptops,HP Spectre x360,6161.95,4,0.05,1232.39
+CA-2021-300165,07-11-2021,09-11-2021,Priya Patel,Corporate,East,New York,Technology,Accessories,Sony WH-1000XM5,1658.95,4,0.05,398.15
+CA-2021-300175,07-11-2021,13-11-2021,Pooja Agarwal,Corporate,East,New Jersey,Technology,Phones,Motorola Edge 30,533.24,1,0.05,101.32
+CA-2021-300172,08-11-2021,14-11-2021,Priya Patel,Corporate,East,New York,Furniture,Tables,Realspace Magellan Corner Desk,1538.97,3,0.2,-123.12
+CA-2021-300194,10-11-2021,13-11-2021,Manish Tiwari,Corporate,South,Virginia,Technology,Accessories,Sony WH-1000XM5,1679.95,4,0.0,503.99
+CA-2021-300148,13-11-2021,17-11-2021,Sneha Gupta,Consumer,Central,Illinois,Technology,Accessories,Logitech MX Master 3S,239.98,2,0.0,76.79
+CA-2021-300156,13-11-2021,16-11-2021,Kavya Nair,Consumer,Central,Ohio,Technology,Phones,OnePlus 10 Pro,2879.96,3,0.0,691.19
+CA-2021-300187,13-11-2021,16-11-2021,Arjun Kumar,Corporate,West,Oregon,Technology,Phones,Samsung Galaxy S22,1066.49,1,0.05,170.64
+CA-2021-300131,15-11-2021,18-11-2021,Priya Patel,Corporate,East,New York,Furniture,Tables,Realspace Magellan Corner Desk,1052.98,2,0.1,42.12
+CA-2021-300163,15-11-2021,19-11-2021,Ritu Kapoor,Consumer,Central,Indiana,Technology,Accessories,Anker USB-C Hub 10-in-1,287.95,4,0.0,100.78
+CA-2021-300186,17-11-2021,22-11-2021,Nikhil Sharma,Consumer,South,North Carolina,Technology,Accessories,Apple AirPods Pro 2,899.96,3,0.0,278.99
+CA-2021-300116,18-11-2021,20-11-2021,Meera Joshi,Home Office,Central,Michigan,Furniture,Bookcases,Bush Cabot 5-Shelf Bookcase,899.96,3,0.0,170.99
+CA-2021-300132,18-11-2021,22-11-2021,Aditya Mishra,Corporate,West,Nevada,Technology,Laptops,HP Spectre x360,4562.96,3,0.1,638.81
+CA-2021-300179,21-11-2021,23-11-2021,Ritu Kapoor,Consumer,Central,Indiana,Technology,Laptops,Dell XPS 15,1919.99,1,0.0,460.8
+CA-2021-300193,23-11-2021,27-11-2021,Lakshmi Venkat,Corporate,East,Maryland,Technology,Phones,Samsung Galaxy S22,2159.98,2,0.0,475.2
+CA-2021-300101,26-11-2021,03-12-2021,Gaurav Pandey,Consumer,South,Tennessee,Office Supplies,Paper,Staples Multipurpose 8.5x11,86.62,2,0.2,3.46
+CA-2021-300178,26-11-2021,02-12-2021,Nikhil Sharma,Consumer,South,North Carolina,Furniture,Tables,Lifetime Commercial Folding Table,663.55,4,0.05,106.17
+CA-2021-300151,01-12-2021,06-12-2021,Tanvi Desai,Consumer,East,Connecticut,Technology,Laptops,MacBook Air M2,1540.49,1,0.05,354.31
+CA-2021-300111,05-12-2021,12-12-2021,Sneha Gupta,Consumer,Central,Illinois,Office Supplies,Paper,HP Premium32 Copy Paper 500ct,251.17,4,0.05,47.72
+CA-2021-300134,08-12-2021,12-12-2021,Karthik Rao,Consumer,West,Arizona,Technology,Accessories,Logitech MX Master 3S,479.95,4,0.0,153.58
+CA-2021-300166,09-12-2021,14-12-2021,Tanvi Desai,Consumer,East,Connecticut,Technology,Phones,Google Pixel 7,839.99,1,0.0,193.2
+CA-2021-300164,10-12-2021,16-12-2021,Pooja Agarwal,Corporate,East,New Jersey,Technology,Accessories,Samsung T7 Shield SSD,300.28,2,0.15,45.04
+CA-2021-300183,11-12-2021,15-12-2021,Rakesh Yadav,Consumer,West,Utah,Furniture,Chairs,Flash Furniture HERCULES Chair,1184.95,4,0.05,165.89
+CA-2021-300121,16-12-2021,19-12-2021,Lakshmi Venkat,Corporate,East,Maryland,Office Supplies,Binders,Avery Heavy Duty View Binder,105.26,3,0.1,18.95
+CA-2021-300191,20-12-2021,22-12-2021,Lakshmi Venkat,Corporate,East,Maryland,Furniture,Tables,Realspace Magellan Corner Desk,2105.95,4,0.1,84.24
+CA-2021-300119,28-12-2021,03-01-2022,Kavya Nair,Consumer,Central,Ohio,Technology,Laptops,ASUS ZenBook 14,1988.98,2,0.1,159.12
+CA-2022-300206,07-01-2022,12-01-2022,Karthik Rao,Consumer,West,Arizona,Office Supplies,Labels,Post-it Super Sticky Notes 12pk,145.75,4,0.0,52.47
+CA-2022-300204,08-01-2022,10-01-2022,Amit Verma,Home Office,South,Texas,Furniture,Chairs,HON Ignition 2.0 Chair,2263.9,4,0.1,158.47
+CA-2022-300283,11-01-2022,13-01-2022,Rohan Mehta,Home Office,South,Florida,Technology,Phones,Google Pixel 7,1889.97,2,0.0,434.69
+CA-2022-300262,13-01-2022,17-01-2022,Priya Patel,Corporate,East,New York,Technology,Phones,Apple iPhone 14 Pro,1754.99,1,0.0,473.85
+CA-2022-300254,17-01-2022,21-01-2022,Meera Joshi,Home Office,Central,Michigan,Office Supplies,Labels,Avery Easy Peel Address Labels,30.65,1,0.05,9.81
+CA-2022-300261,30-01-2022,03-02-2022,Nikhil Sharma,Consumer,South,North Carolina,Furniture,Tables,Lifetime Commercial Folding Table,184.26,1,0.1,18.43
+CA-2022-300209,31-01-2022,06-02-2022,Meera Joshi,Home Office,Central,Michigan,Office Supplies,Storage,Sterilite 6-Drawer Tower,74.24,1,0.0,24.5
+CA-2022-300245,02-02-2022,06-02-2022,Rohan Mehta,Home Office,South,Florida,Office Supplies,Binders,Cardinal Premier Binder 3-inch,161.96,3,0.0,45.35
+CA-2022-300224,03-02-2022,09-02-2022,Amit Verma,Home Office,South,Texas,Office Supplies,Binders,Avery Heavy Duty View Binder,121.46,3,0.0,36.44
+CA-2022-300292,06-02-2022,10-02-2022,Meera Joshi,Home Office,Central,Michigan,Office Supplies,Labels,Post-it Super Sticky Notes 12pk,35.07,1,0.15,6.31
+CA-2022-300205,08-02-2022,12-02-2022,Kavya Nair,Consumer,Central,Ohio,Furniture,Tables,Lifetime Commercial Folding Table,368.52,2,0.1,36.85
+CA-2022-300290,08-02-2022,15-02-2022,Nikhil Sharma,Consumer,South,North Carolina,Technology,Accessories,Samsung T7 Shield SSD,666.85,4,0.2,60.02
+CA-2022-300218,16-02-2022,23-02-2022,Rohan Mehta,Home Office,South,Florida,Office Supplies,Envelopes,Quality Park Policy Envelopes,58.43,3,0.15,9.35
+CA-2022-300275,22-02-2022,27-02-2022,Ananya Reddy,Consumer,East,Pennsylvania,Office Supplies,Envelopes,Mead Standard White Envelopes,22.94,1,0.0,7.34
+CA-2022-300279,05-03-2022,09-03-2022,Tanvi Desai,Consumer,East,Connecticut,Office Supplies,Envelopes,Quality Park Policy Envelopes,78.92,4,0.1,17.36
+CA-2022-300284,07-03-2022,09-03-2022,Suresh Babu,Corporate,South,Georgia,Technology,Accessories,Sony WH-1000XM5,1866.32,4,0.05,447.92
+CA-2022-300211,10-03-2022,17-03-2022,Priya Patel,Corporate,East,New York,Technology,Phones,Google Pixel 7,1819.1,2,0.15,90.96
+CA-2022-300274,10-03-2022,14-03-2022,Sanjay Bhatt,Home Office,West,Colorado,Furniture,Bookcases,South Shore Axess Bookcase,202.49,1,0.0,50.62
+CA-2022-300258,16-03-2022,21-03-2022,Nikhil Sharma,Consumer,South,North Carolina,Office Supplies,Labels,Post-it Super Sticky Notes 12pk,145.75,4,0.0,52.47
+CA-2022-300202,17-03-2022,24-03-2022,Meera Joshi,Home Office,Central,Michigan,Technology,Phones,Motorola Edge 30,577.11,1,0.2,5.77
+CA-2022-300271,24-03-2022,28-03-2022,Neha Saxena,Corporate,Central,Wisconsin,Technology,Phones,Motorola Edge 30,2338.82,4,0.15,163.72
+CA-2022-300214,25-03-2022,30-03-2022,Shreya Pillai,Home Office,Central,Missouri,Furniture,Tables,IKEA BEKANT Corner Desk,1079.97,2,0.0,194.39
+CA-2022-300253,25-03-2022,27-03-2022,Rohan Mehta,Home Office,South,Florida,Office Supplies,Labels,Post-it Super Sticky Notes 12pk,109.31,3,0.0,39.35
+CA-2022-300213,28-03-2022,30-03-2022,Manish Tiwari,Corporate,South,Virginia,Furniture,Bookcases,South Shore Axess Bookcase,197.42,1,0.1,25.66
+CA-2022-300257,31-03-2022,05-04-2022,Tanvi Desai,Consumer,East,Connecticut,Technology,Laptops,Dell XPS 15,4265.97,2,0.05,767.87
+CA-2022-300208,10-04-2022,15-04-2022,Rohan Mehta,Home Office,South,Florida,Office Supplies,Binders,Wilson Jones D-Ring Binder,33.31,1,0.05,7.66
+CA-2022-300217,12-04-2022,17-04-2022,Arjun Kumar,Corporate,West,Oregon,Technology,Laptops,Lenovo ThinkPad X1 Carbon,2024.99,1,0.0,425.25
+CA-2022-300280,13-04-2022,15-04-2022,Pooja Agarwal,Corporate,East,New Jersey,Furniture,Tables,IKEA BEKANT Corner Desk,526.49,1,0.1,31.59
+CA-2022-300234,14-04-2022,17-04-2022,Manish Tiwari,Corporate,South,Virginia,Office Supplies,Labels,Avery Easy Peel Address Labels,62.07,2,0.0,23.59
+CA-2022-300297,20-04-2022,27-04-2022,Kavya Nair,Consumer,Central,Ohio,Office Supplies,Binders,Avery Heavy Duty View Binder,40.49,1,0.0,12.15
+CA-2022-300272,23-04-2022,28-04-2022,Suresh Babu,Corporate,South,Georgia,Technology,Phones,Samsung Galaxy S22,3644.96,3,0.0,801.89
+CA-2022-300256,01-05-2022,06-05-2022,Tanvi Desai,Consumer,East,Connecticut,Technology,Laptops,MacBook Air M2,1711.11,1,0.1,290.89
+CA-2022-300296,05-05-2022,11-05-2022,Suresh Babu,Corporate,South,Georgia,Office Supplies,Paper,Staples Multipurpose 8.5x11,50.65,1,0.05,11.14
+CA-2022-300232,09-05-2022,12-05-2022,Nikhil Sharma,Consumer,South,North Carolina,Technology,Laptops,HP Spectre x360,1754.99,1,0.0,456.3
+CA-2022-300244,10-05-2022,14-05-2022,Pooja Agarwal,Corporate,East,New Jersey,Office Supplies,Binders,Cardinal Premier Binder 3-inch,155.89,3,0.15,15.59
+CA-2022-300255,13-05-2022,17-05-2022,Sanjay Bhatt,Home Office,West,Colorado,Office Supplies,Paper,HP Premium32 Copy Paper 500ct,139.5,2,0.1,18.14
+CA-2022-300241,15-05-2022,19-05-2022,Arjun Kumar,Corporate,West,Oregon,Office Supplies,Storage,Sterilite 6-Drawer Tower,296.95,4,0.0,97.99
+CA-2022-300249,17-05-2022,20-05-2022,Rohan Mehta,Home Office,South,Florida,Technology,Phones,Google Pixel 7,944.99,1,0.0,217.35
+CA-2022-300266,23-05-2022,26-05-2022,Ananya Reddy,Consumer,East,Pennsylvania,Technology,Phones,Google Pixel 7,921.36,1,0.1,101.35
+CA-2022-300293,24-05-2022,31-05-2022,Suresh Babu,Corporate,South,Georgia,Technology,Phones,Samsung Galaxy S22,4677.7,4,0.15,187.11
+CA-2022-300235,31-05-2022,05-06-2022,Rohan Mehta,Home Office,South,Florida,Technology,Phones,OnePlus 10 Pro,1079.99,1,0.0,259.2
+CA-2022-300294,09-06-2022,15-06-2022,Pooja Agarwal,Corporate,East,New Jersey,Office Supplies,Binders,Avery Heavy Duty View Binder,155.87,4,0.15,18.7
+CA-2022-300286,14-06-2022,17-06-2022,Shreya Pillai,Home Office,Central,Missouri,Office Supplies,Labels,Post-it Super Sticky Notes 12pk,145.75,4,0.0,52.47
+CA-2022-300289,24-06-2022,26-06-2022,Rakesh Yadav,Consumer,West,Utah,Technology,Phones,Samsung Galaxy S22,2308.47,2,0.2,-46.17
+CA-2022-300270,26-06-2022,29-06-2022,Nikhil Sharma,Consumer,South,North Carolina,Technology,Laptops,Dell XPS 15,2159.99,1,0.0,518.4
+CA-2022-300216,27-06-2022,30-06-2022,Neha Saxena,Corporate,Central,Wisconsin,Technology,Laptops,ASUS ZenBook 14,2294.97,2,0.0,458.99
+CA-2022-300231,11-07-2022,15-07-2022,Karthik Rao,Consumer,West,Arizona,Furniture,Chairs,HON Ignition 2.0 Chair,1160.97,2,0.0,220.58
+CA-2022-300215,23-07-2022,29-07-2022,Suresh Babu,Corporate,South,Georgia,Technology,Laptops,HP Spectre x360,1689.17,1,0.15,135.13
+CA-2022-300251,29-07-2022,01-08-2022,Karthik Rao,Consumer,West,Arizona,Technology,Laptops,HP Spectre x360,1754.99,1,0.0,456.3
+CA-2022-300263,05-08-2022,10-08-2022,Ritu Kapoor,Consumer,Central,Indiana,Office Supplies,Paper,Staples Multipurpose 8.5x11,50.0,1,0.1,8.0
+CA-2022-300210,10-08-2022,15-08-2022,Aditya Mishra,Corporate,West,Nevada,Technology,Phones,Google Pixel 7,2693.21,3,0.2,-26.93
+CA-2022-300220,11-08-2022,17-08-2022,Rahul Sharma,Consumer,West,California,Technology,Phones,Apple iPhone 14 Pro,7019.95,4,0.0,1895.39
+CA-2022-300277,14-08-2022,18-08-2022,Neha Saxena,Corporate,Central,Wisconsin,Furniture,Tables,Realspace Magellan Corner Desk,1214.97,2,0.0,194.4
+CA-2022-300282,17-08-2022,21-08-2022,Shreya Pillai,Home Office,Central,Missouri,Furniture,Tables,Realspace Magellan Corner Desk,592.3,1,0.1,23.69
+CA-2022-300203,22-08-2022,25-08-2022,Tanvi Desai,Consumer,East,Connecticut,Technology,Phones,Samsung Galaxy S22,4677.7,4,0.15,187.11
+CA-2022-300236,25-08-2022,30-08-2022,Nikhil Sharma,Consumer,South,North Carolina,Office Supplies,Binders,Cardinal Premier Binder 3-inch,106.62,2,0.05,23.46
+CA-2022-300252,28-08-2022,03-09-2022,Tanvi Desai,Consumer,East,Connecticut,Technology,Accessories,Samsung T7 Shield SSD,350.97,2,0.0,115.82
+CA-2022-300225,29-08-2022,03-09-2022,Pooja Agarwal,Corporate,East,New Jersey,Furniture,Tables,IKEA BEKANT Corner Desk,1619.96,3,0.0,291.59
+CA-2022-300278,30-08-2022,02-09-2022,Gaurav Pandey,Consumer,South,Tennessee,Office Supplies,Paper,Staples Multipurpose 8.5x11,205.15,4,0.0,57.44
+CA-2022-300239,31-08-2022,02-09-2022,Lakshmi Venkat,Corporate,East,Maryland,Office Supplies,Storage,Sterilite 6-Drawer Tower,148.47,2,0.0,49.0
+CA-2022-300229,03-09-2022,06-09-2022,Sanjay Bhatt,Home Office,West,Colorado,Technology,Laptops,HP Spectre x360,3509.97,2,0.0,912.59
+CA-2022-300233,03-09-2022,07-09-2022,Divya Iyer,Consumer,East,Massachusetts,Office Supplies,Paper,Hammermill Great White 30%,121.47,2,0.0,32.8
+CA-2022-300259,09-09-2022,11-09-2022,Suresh Babu,Corporate,South,Georgia,Furniture,Chairs,HON Ignition 2.0 Chair,1131.95,2,0.1,79.24
+CA-2022-300269,18-09-2022,21-09-2022,Sanjay Bhatt,Home Office,West,Colorado,Technology,Phones,Apple iPhone 14 Pro,6756.7,4,0.15,608.1
+CA-2022-300238,20-09-2022,22-09-2022,Priya Patel,Corporate,East,New York,Technology,Phones,Apple iPhone 14 Pro,1754.99,1,0.0,473.85
+CA-2022-300281,20-09-2022,26-09-2022,Sneha Gupta,Consumer,Central,Illinois,Office Supplies,Paper,HP Premium32 Copy Paper 500ct,143.07,2,0.0,35.77
+CA-2022-300248,22-09-2022,28-09-2022,Kavya Nair,Consumer,Central,Ohio,Technology,Phones,OnePlus 10 Pro,4319.95,4,0.0,1036.79
+CA-2022-300300,24-09-2022,29-09-2022,Nikhil Sharma,Consumer,South,North Carolina,Furniture,Bookcases,Sauder Palladia Library Bookcase,439.92,1,0.05,-61.59
+CA-2022-300243,30-09-2022,06-10-2022,Tanvi Desai,Consumer,East,Connecticut,Technology,Laptops,Lenovo ThinkPad X1 Carbon,3999.35,2,0.05,599.9
+CA-2022-300219,05-10-2022,09-10-2022,Neha Saxena,Corporate,Central,Wisconsin,Technology,Phones,OnePlus 10 Pro,2132.97,2,0.05,383.93
+CA-2022-300226,11-10-2022,17-10-2022,Kavya Nair,Consumer,Central,Ohio,Technology,Laptops,ASUS ZenBook 14,3442.46,3,0.0,688.49
+CA-2022-300250,11-10-2022,17-10-2022,Manish Tiwari,Corporate,South,Virginia,Office Supplies,Paper,Hammermill Great White 30%,182.21,3,0.0,49.2
+CA-2022-300287,16-10-2022,23-10-2022,Gaurav Pandey,Consumer,South,Tennessee,Technology,Laptops,ASUS ZenBook 14,1147.49,1,0.0,229.5
+CA-2022-300212,19-10-2022,24-10-2022,Karthik Rao,Consumer,West,Arizona,Office Supplies,Labels,Avery Easy Peel Address Labels,62.07,2,0.0,23.59
+CA-2022-300295,20-10-2022,23-10-2022,Amit Verma,Home Office,South,Texas,Technology,Laptops,Lenovo ThinkPad X1 Carbon,2024.99,1,0.0,425.25
+CA-2022-300242,23-10-2022,30-10-2022,Meera Joshi,Home Office,Central,Michigan,Furniture,Tables,Sauder Trestle Executive Desk,1538.97,2,0.2,-554.03
+CA-2022-300288,30-10-2022,06-11-2022,Neha Saxena,Corporate,Central,Wisconsin,Office Supplies,Binders,Cardinal Premier Binder 3-inch,107.97,2,0.0,30.23
+CA-2022-300221,03-11-2022,07-11-2022,Pooja Agarwal,Corporate,East,New Jersey,Office Supplies,Envelopes,Quality Park Policy Envelopes,39.97,2,0.05,11.19
+CA-2022-300291,07-11-2022,13-11-2022,Neha Saxena,Corporate,Central,Wisconsin,Furniture,Tables,Lifetime Commercial Folding Table,181.9,1,0.15,7.28
+CA-2022-300298,07-11-2022,11-11-2022,Pooja Agarwal,Corporate,East,New Jersey,Technology,Accessories,Logitech MX Master 3S,526.45,4,0.1,105.29
+CA-2022-300299,07-11-2022,12-11-2022,Gaurav Pandey,Consumer,South,Tennessee,Office Supplies,Paper,HP Premium32 Copy Paper 500ct,71.54,1,0.0,17.89
+CA-2022-300260,10-11-2022,13-11-2022,Sneha Gupta,Consumer,Central,Illinois,Furniture,Bookcases,South Shore Axess Bookcase,809.95,4,0.0,202.49
+CA-2022-300222,18-11-2022,22-11-2022,Manish Tiwari,Corporate,South,Virginia,Technology,Accessories,Logitech MX Master 3S,134.99,1,0.0,43.2
+CA-2022-300273,20-11-2022,24-11-2022,Priya Patel,Corporate,East,New York,Technology,Phones,OnePlus 10 Pro,1025.99,1,0.2,0.0
+CA-2022-300264,22-11-2022,24-11-2022,Sneha Gupta,Consumer,Central,Illinois,Furniture,Chairs,ErgoChair Pro Ergonomic,1559.22,2,0.15,62.37
+CA-2022-300246,28-11-2022,30-11-2022,Pooja Agarwal,Corporate,East,New Jersey,Furniture,Bookcases,South Shore Axess Bookcase,809.95,4,0.0,202.49
+CA-2022-300265,02-12-2022,07-12-2022,Shreya Pillai,Home Office,Central,Missouri,Technology,Phones,Apple iPhone 14 Pro,1733.05,1,0.05,363.94
+CA-2022-300237,04-12-2022,08-12-2022,Kavya Nair,Consumer,Central,Ohio,Furniture,Bookcases,South Shore Axess Bookcase,399.91,2,0.05,75.98
+CA-2022-300267,04-12-2022,10-12-2022,Sanjay Bhatt,Home Office,West,Colorado,Office Supplies,Labels,Post-it Super Sticky Notes 12pk,103.84,3,0.2,12.46
+CA-2022-300223,05-12-2022,12-12-2022,Karthik Rao,Consumer,West,Arizona,Technology,Phones,Google Pixel 7,2799.52,3,0.05,475.92
+CA-2022-300268,05-12-2022,09-12-2022,Arjun Kumar,Corporate,West,Oregon,Technology,Phones,Samsung Galaxy S22,3644.96,3,0.0,801.89
+CA-2022-300240,14-12-2022,17-12-2022,Ritu Kapoor,Consumer,Central,Indiana,Office Supplies,Binders,Avery Heavy Duty View Binder,159.92,4,0.05,38.38
+CA-2022-300276,16-12-2022,23-12-2022,Gaurav Pandey,Consumer,South,Tennessee,Office Supplies,Binders,Wilson Jones D-Ring Binder,67.47,2,0.0,19.57
+CA-2022-300207,18-12-2022,22-12-2022,Tanvi Desai,Consumer,East,Connecticut,Office Supplies,Storage,Sterilite 6-Drawer Tower,74.24,1,0.0,24.5
+CA-2022-300227,19-12-2022,24-12-2022,Arjun Kumar,Corporate,West,Oregon,Furniture,Chairs,ErgoChair Pro Ergonomic,1619.97,2,0.0,356.39
+CA-2022-300247,20-12-2022,25-12-2022,Karthik Rao,Consumer,West,Arizona,Technology,Accessories,Apple AirPods Pro 2,329.05,1,0.1,62.52
+CA-2022-300230,21-12-2022,28-12-2022,Meera Joshi,Home Office,Central,Michigan,Furniture,Tables,Realspace Magellan Corner Desk,1169.41,2,0.15,-23.39
+CA-2022-300201,23-12-2022,28-12-2022,Pooja Agarwal,Corporate,East,New Jersey,Furniture,Chairs,Autonomous ErgoChair Plus,1949.02,3,0.15,58.47
+CA-2022-300285,23-12-2022,26-12-2022,Rakesh Yadav,Consumer,West,Utah,Technology,Accessories,Apple AirPods Pro 2,329.05,1,0.1,62.52
+CA-2022-300228,25-12-2022,30-12-2022,Gaurav Pandey,Consumer,South,Tennessee,Technology,Accessories,Apple AirPods Pro 2,999.8,3,0.05,249.95

@@ -1,0 +1,247 @@
+// ============================================================
+//  BEE Lab Project — Group 4
+//  Power BI DAX Measures Reference
+//  Copy each measure into Power BI: Modeling > New Measure
+// ============================================================
+
+// ── STEP 1: Create a Measures Table ─────────────────────────
+// Modeling > New Table → paste this:
+//   _Measures = {""}
+// Then right-click _Measures > New Measure for each below.
+
+
+// ────────────────────────────────────────────────────────────
+// SECTION A: BASIC KPI MEASURES
+// ────────────────────────────────────────────────────────────
+
+Total Sales =
+SUM(SalesData[Sales])
+
+
+Total Profit =
+SUM(SalesData[Profit])
+
+
+Total Quantity =
+SUM(SalesData[Quantity])
+
+
+Total Orders =
+DISTINCTCOUNT(SalesData[Order ID])
+
+
+Total Discount Amount =
+SUMX(
+    SalesData,
+    SalesData[Sales] * SalesData[Discount]
+)
+
+
+// ────────────────────────────────────────────────────────────
+// SECTION B: RATIO & MARGIN MEASURES
+// ────────────────────────────────────────────────────────────
+
+Profit Margin % =
+DIVIDE(
+    [Total Profit],
+    [Total Sales],
+    0
+)
+// --> Format this as: Percentage (2 decimal places)
+
+
+Avg Order Value =
+DIVIDE(
+    [Total Sales],
+    [Total Orders],
+    0
+)
+// --> Format as: Currency
+
+
+Avg Profit Per Order =
+DIVIDE(
+    [Total Profit],
+    [Total Orders],
+    0
+)
+
+
+Discount Rate % =
+DIVIDE(
+    [Total Discount Amount],
+    [Total Sales] + [Total Discount Amount],
+    0
+)
+// --> Format as: Percentage
+
+
+// ────────────────────────────────────────────────────────────
+// SECTION C: TIME INTELLIGENCE MEASURES
+// (Requires DateTable marked as Date Table)
+// ────────────────────────────────────────────────────────────
+
+YTD Sales =
+TOTALYTD(
+    [Total Sales],
+    DateTable[Date]
+)
+
+
+YTD Profit =
+TOTALYTD(
+    [Total Profit],
+    DateTable[Date]
+)
+
+
+MTD Sales =
+TOTALMTD(
+    [Total Sales],
+    DateTable[Date]
+)
+
+
+QTD Sales =
+TOTALQTD(
+    [Total Sales],
+    DateTable[Date]
+)
+
+
+Sales Previous Year =
+CALCULATE(
+    [Total Sales],
+    SAMEPERIODLASTYEAR(DateTable[Date])
+)
+
+
+Profit Previous Year =
+CALCULATE(
+    [Total Profit],
+    SAMEPERIODLASTYEAR(DateTable[Date])
+)
+
+
+YoY Sales Growth % =
+DIVIDE(
+    [Total Sales] - [Sales Previous Year],
+    [Sales Previous Year],
+    0
+)
+// --> Format as: Percentage
+// --> Use in KPI Card with "Sales Previous Year" as Target
+
+
+YoY Profit Growth % =
+DIVIDE(
+    [Total Profit] - [Profit Previous Year],
+    [Profit Previous Year],
+    0
+)
+
+
+Sales Previous Month =
+CALCULATE(
+    [Total Sales],
+    PREVIOUSMONTH(DateTable[Date])
+)
+
+
+MoM Sales Growth % =
+DIVIDE(
+    [Total Sales] - [Sales Previous Month],
+    [Sales Previous Month],
+    0
+)
+// --> Format as: Percentage with conditional formatting (green/red)
+
+
+// ────────────────────────────────────────────────────────────
+// SECTION D: RANKING & TOPN MEASURES
+// ────────────────────────────────────────────────────────────
+
+Sales Rank by Category =
+RANKX(
+    ALL(SalesData[Category]),
+    [Total Sales],
+    ,
+    DESC,
+    DENSE
+)
+
+
+Top 5 Products Flag =
+IF(
+    RANKX(
+        ALL(SalesData[Product Name]),
+        [Total Sales],
+        ,
+        DESC,
+        DENSE
+    ) <= 5,
+    "Top 5",
+    "Others"
+)
+
+
+// ────────────────────────────────────────────────────────────
+// SECTION E: CONDITIONAL / DYNAMIC MEASURES
+// ────────────────────────────────────────────────────────────
+
+Profit Status =
+IF(
+    [Total Profit] >= 0,
+    "Profitable",
+    "Loss-Making"
+)
+
+
+Sales vs Target =
+VAR target = 5000
+RETURN
+    [Total Sales] - target
+
+
+High Value Orders =
+CALCULATE(
+    [Total Orders],
+    SalesData[Sales] > 500
+)
+
+
+Loss Orders Count =
+CALCULATE(
+    [Total Orders],
+    SalesData[Profit] < 0
+)
+
+
+// ────────────────────────────────────────────────────────────
+// SECTION F: DATE TABLE (New Table DAX)
+// Modeling > New Table > paste this entire block
+// ────────────────────────────────────────────────────────────
+
+/*
+DateTable =
+ADDCOLUMNS(
+    CALENDAR(DATE(2021,1,1), DATE(2021,12,31)),
+    "Year",          YEAR([Date]),
+    "Month Number",  MONTH([Date]),
+    "Month Name",    FORMAT([Date], "MMMM"),
+    "Month Short",   FORMAT([Date], "MMM"),
+    "Quarter",       "Q" & QUARTER([Date]),
+    "Quarter Number",QUARTER([Date]),
+    "Week Number",   WEEKNUM([Date]),
+    "Day Name",      FORMAT([Date], "dddd"),
+    "Day Number",    WEEKDAY([Date], 2),
+    "Month-Year",    FORMAT([Date], "MMM YYYY"),
+    "Year-Month",    FORMAT([Date], "YYYY-MM")
+)
+*/
+
+// After creating DateTable:
+// 1. Click DateTable in Fields pane
+// 2. Table tools > Mark as date table > select "Date" column
+// 3. Model View > drag DateTable[Date] to SalesData[Order Date]
+//    (creates One-to-Many relationship)
