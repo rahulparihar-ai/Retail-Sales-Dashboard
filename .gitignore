@@ -31,3 +31,5 @@ dashboard_data.json
 
 # Jupyter
 .ipynb_checkpoints/
+
+report/
